@@ -7,7 +7,7 @@ The ALU supports both **arithmetic** and **logic** operations, selectable throug
 
 ## Features
 -Bock diagram 
-![Block diagram](blockdiagram.png)
+
 
 
 - `000` → NOT A
