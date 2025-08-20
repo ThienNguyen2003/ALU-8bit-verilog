@@ -61,19 +61,19 @@ The ALU supports both **arithmetic** and **logic** operations, selectable throug
 
 -  Waveform module full_adder_4b   
    
-[full_adder_4b ](waveform_adder4bit.png)
+![full_adder_4b ](waveform_adder4bit.png)
 
 - Waveform module multiplier_4b
 
-[multiplier_4b ](waveform_multiplier.png)
+![multiplier_4b ](waveform_multiplier.png)
 
 - Waveform module Mux_8to1
 
-[Mux_8to1](waveform_Mux8to1.png)
+![Mux_8to1](waveform_Mux8to1.png)
 
 - Waveform module top_ALU_8b         
           
-[top_ALU_8b](waveform_ALU.png)
+![top_ALU_8b](waveform_ALU.png)
 
 
 ## Authors
