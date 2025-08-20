@@ -24,7 +24,7 @@ The ALU supports both **arithmetic** and **logic** operations, selectable throug
 ## Project Structure
 
 ```
-           | Source
+| Source
 	├── full_adder_1b.v      # 1-bit Full Adder
 	├── full_adder_4b.v      # 4-bit Ripple Carry Adder
 	├── subtractor_4b.v      # 4-bit Subtractor
@@ -32,13 +32,13 @@ The ALU supports both **arithmetic** and **logic** operations, selectable throug
 	├── divider_4b.v         # 4-bit Divider
 	├── Mux_8to1.v           # 8-to-1 Multiplexer
 	├── top_ALU_8b.v         # ALU Top Module
-          | testbench
+| testbench
 	├── full_adder_4b_tb.v      #  testbench 4-bit Ripple Carry Adder
 	├── subtractor_4b_tb.v      #testbench 4-bit Subtractor
 	├── multiplier_4b_tb.v      ##testbench  4-bit Multiplier
 	├── Mux_8to1_tb.v           ##testbench  8-to-1 Multiplexer
 	└── top_ALU_8b_tb.v      # Testbench ALU Top Module
-           | wave form
+| wave form
 	├── waveform_adder4bit.png
 	├── waveform_multiplier.png
 	├── waveform_Mux8to1.png
